@@ -10,7 +10,7 @@
   
 🚀 Ready to be a Junior Frontend Web Developer <br>
 📚 React, Javascript(ES6+), TypeScript <br> 
-:eyes: Interested in Clean Code & User Experience
+:eyes: I'm good reader & writer & listener
  <br>
 
 <table><tr><td valign="top" width="50%">
