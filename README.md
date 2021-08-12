@@ -4,8 +4,8 @@
 ### Hello! I'm Irisdew<span><img src="https://cdn2.iconfinder.com/data/icons/salem-flat-icon-collection/1000/waterdrop.png" height="36"><span>
 
 
-  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link='')]('')
-  [![Resume Badge](https://img.shields.io/badge/-Resume-blue?style=flat-square&logoColor=white&logo=&link='')]('')
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://irisdew.github.io/)]('')
+  [![Resume Badge](https://img.shields.io/badge/-Resume-blue?style=flat-square&logoColor=white&logo=&link=https://irisdew.notion.site/d1e72986388c48fa97e1cfa62a418fcb)]('')
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ycleardew@gmail.com)](mailto:ycleardew@gmail.com)
   
 🚀 Ready to be a Junior Frontend Web Developer <br>
@@ -19,7 +19,7 @@
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irisdew&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irisdew&hide_border=true&layout=compact&exclude_repo=irisdew.github.io" align="left" style="width: 100%" />
 
 </td></tr></table> 
 <!-- ![irisdew's GitHub stats](https://github-readme-stats.vercel.app/api?username=irisdew&theme=react&show_icons=true)
